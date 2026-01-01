@@ -16,11 +16,11 @@ Initial SCOPE:
   - IDE: VSCode
 - Must support syncing between iOS & Windows
 - Serverless solutions with integrated functions to avoid hardware costs
-  -Cloudflare R2?
-  -IBM Cloudfront?
-  -AWS S3 solutions?
-  -Azure Blob?
-  -Google Cloud?
+  - Cloudflare R2?
+  - IBM Cloudfront?
+  - AWS S3 solutions?
+  - Azure Blob?
+  - Google Cloud?
 - Must support all Obsidian Filetypes
 - Don't comment on Code, instead make the Code inherently readable by using good filenames and having a standard.
         Use descriptive, specific names
@@ -28,7 +28,8 @@ Initial SCOPE:
         Use full words
         Make names pronounceable
         Encode meaning
--CRON jobs Needed?
+- CRON jobs Needed?
+- https://github.com/aiortc/aiortc python - WEBRTC integration
 
 Potential ROADBLOCKS:
 -Expensive
